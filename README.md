@@ -2,6 +2,7 @@
 
 
 👤 Autor: **Juan Miguel Rodríguez Trujillo**
+
 Economista · Estadística aplicada · Ciencia de datos
 
 Repositorio orientado al **diagnóstico estadístico y exploratorio de series de tiempo financieras** utilizando Python, con énfasis en la comprensión de la dinámica temporal **previa al modelado econométrico o de Machine Learning**.
